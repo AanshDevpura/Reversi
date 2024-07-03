@@ -1,6 +1,6 @@
 # Reversi
 
-To play the game, run the `Reversi.py` file. You need to have pygame and pygame installed.
+To play the game, run the `Reversi.py` file. You need to have pygame and numpy installed.
 
 The code allows you to play Reversi/Othello locally or against a MinMax bot. You can choose the depth and color for the bot.
 
